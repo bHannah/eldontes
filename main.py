@@ -1,3 +1,4 @@
-import eldontes
+import linearis_kereses
 
-print(eldontes.elso_otjegyu_prim())
+linearis_kereses.tizzel_oszthato()
+
